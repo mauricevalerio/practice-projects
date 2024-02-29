@@ -1,1 +1,1 @@
-# astro-projects
+# astro-practice
